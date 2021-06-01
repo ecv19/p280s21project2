@@ -14,8 +14,6 @@
  - visualizations
      - Peter, Alan, Brian
      - Bri, Armando 
- - data
-     - Reyna, Michelle 
  - visualizations
      - [Peter](https://github.com/pcarl006), [Alan](https://github.com/alanrrz), [Brian](https://github.com/BFPC4)
 
